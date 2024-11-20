@@ -1,0 +1,9 @@
+export const keys = {
+    REACT_APP_FIREBASE_KEY: "AIzaSyBFJ2SD-xl_rqJGgeiSwFuqAV3YV5JAxDY",
+    REACT_APP_FIREBASE_DOMAIN: "smartb-web-9f045.firebaseapp.com",
+    REACT_APP_FIREBASE_DATABASE: "",
+    REACT_APP_FIREBASE_PROJECT_ID: "smartb-web-9f045",
+    REACT_APP_FIREBASE_STORAGE_BUCKET: "smartb-web-9f045.appspot.com",
+    REACT_APP_FIREBASE_SENDER_ID: "332086180036",
+    REACT_APP_GOOGLE_MAPS_API_KEY: "",
+}
